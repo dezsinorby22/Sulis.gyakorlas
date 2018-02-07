@@ -1,0 +1,30 @@
+body
+{
+    background-color: gainsboro;
+    
+     width: 100%;
+}
+p
+{
+    
+    color: blacks;
+    font-size: 30px;
+}
+.suli
+{
+    float: right;
+    
+}
+.suli2
+{
+    float: right;
+    margin-top: -100px;
+}
+.vissza
+{
+    font-size: 40px;
+    color: red;
+}
+title{
+    font-style: italic;
+}
